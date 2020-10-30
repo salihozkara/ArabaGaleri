@@ -1,0 +1,10 @@
+C:\Users\salih\source\repos\ders2\araba\bin\Debug\araba.exe.config
+C:\Users\salih\source\repos\ders2\araba\bin\Debug\araba.exe
+C:\Users\salih\source\repos\ders2\araba\bin\Debug\araba.pdb
+C:\Users\salih\source\repos\ders2\araba\obj\Debug\araba.csprojAssemblyReference.cache
+C:\Users\salih\source\repos\ders2\araba\obj\Debug\araba.Form1.resources
+C:\Users\salih\source\repos\ders2\araba\obj\Debug\araba.Properties.Resources.resources
+C:\Users\salih\source\repos\ders2\araba\obj\Debug\araba.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\ders2\araba\obj\Debug\araba.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\ders2\araba\obj\Debug\araba.exe
+C:\Users\salih\source\repos\ders2\araba\obj\Debug\araba.pdb
